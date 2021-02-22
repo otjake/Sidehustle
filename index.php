@@ -21,7 +21,7 @@
 //     echo "<br>";
 
 // }
-
+// for simplicity
 for ($i=0; $i <= 200 ; $i++) { 
     $randArr[] = rand(pow(10,15), pow(10,16)-1) . "<br>"; // This generates random 16 digits random numbers
 }
